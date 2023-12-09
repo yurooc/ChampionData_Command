@@ -8,7 +8,9 @@
 1. `pip install rich`	          安装rich库
 2. `pip install resquests`       安装requests库
 
-![image-20231210040002545](cdn.yurooc.top/img/image-20231210040002545.png)
+## 界面
+
+![image-20231210041018904](http://cdn.yurooc.top/img/image-20231210041018904.png)
 
 ## 功能
 
