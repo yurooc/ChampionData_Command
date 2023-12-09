@@ -8,6 +8,10 @@
 1. `pip install rich`	          安装rich库
 2. `pip install resquests`       安装requests库
 
+## 界面
+
+![image-20231210024413831](https://raw.githubusercontent.com/yurooc/img/img/image-20231210024413831.png)
+
 ## 功能
 
 1. 查看当前版本各个分段各个位置的英雄数据(胜率，英雄强度，ban/pick数据)
